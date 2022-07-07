@@ -1,0 +1,11 @@
+E:\c#\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\QuanLyCuaHangSach.exe.config
+E:\c#\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\QuanLyCuaHangSach.exe
+E:\c#\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\QuanLyCuaHangSach.pdb
+E:\c#\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\QuanLyCuaHangSach.csproj.AssemblyReference.cache
+E:\c#\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\QuanLyCuaHangSach.csproj.SuggestedBindingRedirects.cache
+E:\c#\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\QuanLyCuaHangSach.Form1.resources
+E:\c#\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\QuanLyCuaHangSach.Properties.Resources.resources
+E:\c#\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\QuanLyCuaHangSach.csproj.GenerateResource.cache
+E:\c#\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\QuanLyCuaHangSach.csproj.CoreCompileInputs.cache
+E:\c#\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\QuanLyCuaHangSach.exe
+E:\c#\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\QuanLyCuaHangSach.pdb
